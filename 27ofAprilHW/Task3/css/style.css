@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.logo {
+    float: left;
+    margin-top: 13px;
+}
+.HeaderContent h1 {
+    float: left;
+    padding-left: 145px;
+    padding-top: 8px;
+    margin: 0px 0px 0px 0px;
+    display: block;
+    text-align: center;
+    color: #30267e;
+}
+.PrimaryNavigation {
+    clear: both;
+    padding-top: 20px;
+}
+.PrimaryNavigation a {
+    display: inline-block;
+    text-indent: 8px;
+    text-decoration: none;
+}
+.PhotoAreaandPrimaryMessagingArea img {
+    width: 740px;
+    
+}
+.PhotoAreaandPrimaryMessagingArea {
+    float: left;
+    padding-top: 33px;
+    width: 740px;
+    margin: 2.08px;
+    border: solid rgb(43, 103, 254)
+}
+.box {
+    clear: both;
+}
+.box .MessagingArea {
+    float: left;
+    border: #30267e solid;
+    width: 450px;
+    margin: 10px 20px 10px 20px;
+}
+.box .MessagingArea span {
+    
+}
+.footerContent {
+    clear: both;
+    border: #30267e solid;
+    margin-top: 50px;
+}
